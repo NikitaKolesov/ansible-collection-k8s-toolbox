@@ -1,0 +1,14 @@
+helm_version: "v3.9.2"
+helm_checksum: "sha256:3f5be38068a1829670440ccf00b3b6656fd90d0d9cfd4367539f3b13e4c20531"
+
+k9s_checksum: "sha256:cddbc88403d1cfb02f3e55558b61ce63a0486f9bb8fcd258fcd104565b794c80"
+k9s_version: "v0.26.0"
+
+kubectl_version: "1.24.3"
+
+minikube_version: "1.26.0"
+
+stern_checksum: "sha256:e0b39dc26f3a0c7596b2408e4fb8da533352b76aaffdc18c7ad28c833c9eb7db"
+stern_version: "1.11.0"
+
+install_cuda_driver: false
